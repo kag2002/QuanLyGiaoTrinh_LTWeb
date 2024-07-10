@@ -1,0 +1,109 @@
+@using BTL.Models
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<ThuThu>
+@{
+    ViewData["Title"] = "DanhSachThuThu";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2 class="page-title">
+    <span class="page-title-icon bg-gradient-primary text-white me-2">
+        <i class="mdi mdi-account"></i>
+    </span> Quản lý thủ thư
+</h2>
+<p style="float:right">
+    <a asp-controller="HomeAdmin" asp-action="ThemThuThu" class="create">
+        <button type="button" class="btn btn-outline-danger btn-icon-text" asp-controller="HomeAdmin" asp-action="ThemSanPham">
+            <i class="mdi mdi-upload btn-icon-prepend upload"></i>Thêm mới thẻ mượn
+        </button>
+    </a>
+</p>
+
+
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-danger">
+            <th>
+                <p>Ma Thu Thu</p>
+            </th>
+            <th>
+                <p>Ten Thu Thu</p>
+            </th>
+            <th>
+                <p>Username</p>
+            </th>
+            <th>
+                <p>Mat Khau</p>
+            </th>
+            <th>
+                <p>Que Quan</p>
+            </th>
+            <th>
+                <p>Dien thoai cd</p>
+            </th>
+            <th>
+                <p>Dien thoai dd</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 1;
+        }
+        @foreach (var item in Model)
+        {
+            i = i + 1;
+            string cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaThuThu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenThuThu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MatKhau)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaQue)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DienThoaiCd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DienThoaiDd)
+                </td>
+                <td>
+                    <a asp-controller="HomeAdmin" asp-action="SuaThuThu" asp-route-maThuThu="@item.MaThuThu" style="text-decoration: none">
+                        <button type="button" class="btn-sm btn-gradient-dark ">
+                            Edit
+                        </button>
+                    </a>
+
+                    <button type="button" class="btn-sm btn-gradient-info" asp-action="Details" asp-route-id="@item.MaThuThu">Details</button>
+
+                    <a asp-action="XoaThuThu" asp-route-matt="@item.MaThuThu" style="text-decoration: none">
+                        <button type="button" class="btn-sm btn-gradient-danger">
+                            Delete
+                        </button>
+                    </a>
+                   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager(Model,page => Url.Action("DanhSachThuThu", new {page=page}),new X.PagedList.Web.Common.PagedListRenderOptions(){
+	LiElementClasses = new List<String> {"page-item"},
+	PageClasses = new List<String> {"page-link"}
+})

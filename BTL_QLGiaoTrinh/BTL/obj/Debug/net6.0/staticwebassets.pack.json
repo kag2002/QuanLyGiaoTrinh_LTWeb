@@ -1,0 +1,1557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BTL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTL.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\mediaelementplayer.css",
+      "PackagePath": "staticwebassets\\css\\mediaelementplayer.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\13.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\14.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\15.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\16.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\17.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\18.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\19.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\20.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\21.jpg",
+      "PackagePath": "staticwebassets\\images\\21.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\22.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\23.jpg",
+      "PackagePath": "staticwebassets\\images\\23.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\24.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\NenThuVien.jpg",
+      "PackagePath": "staticwebassets\\images\\NenThuVien.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\ThuVien1.jpeg",
+      "PackagePath": "staticwebassets\\images\\ThuVien1.jpeg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\ThuVien2.jpeg",
+      "PackagePath": "staticwebassets\\images\\ThuVien2.jpeg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\ThuVien3.jpeg",
+      "PackagePath": "staticwebassets\\images\\ThuVien3.jpeg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\ThuVien4.jpg",
+      "PackagePath": "staticwebassets\\images\\ThuVien4.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\ThuVien6.jpg",
+      "PackagePath": "staticwebassets\\images\\ThuVien6.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\ThuVien7.jpg",
+      "PackagePath": "staticwebassets\\images\\ThuVien7.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\about_2.jpg",
+      "PackagePath": "staticwebassets\\images\\about_2.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\about_3.jpg",
+      "PackagePath": "staticwebassets\\images\\about_3.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\bia.png",
+      "PackagePath": "staticwebassets\\images\\bia.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\coca.png",
+      "PackagePath": "staticwebassets\\images\\coca.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\fanta.png",
+      "PackagePath": "staticwebassets\\images\\fanta.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\giala.png",
+      "PackagePath": "staticwebassets\\images\\giala.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_2.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_3.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\hoaqua.png",
+      "PackagePath": "staticwebassets\\images\\hoaqua.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\hom1.jpg",
+      "PackagePath": "staticwebassets\\images\\hom1.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\hom2.jpg",
+      "PackagePath": "staticwebassets\\images\\hom2.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\hom3.jpg",
+      "PackagePath": "staticwebassets\\images\\hom3.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\home1.webp",
+      "PackagePath": "staticwebassets\\images\\home1.webp"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\hsmuon.jpg",
+      "PackagePath": "staticwebassets\\images\\hsmuon.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\images\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\images\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\images\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\images\\img_5.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\img_6.jpg",
+      "PackagePath": "staticwebassets\\images\\img_6.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\img_7.jpg",
+      "PackagePath": "staticwebassets\\images\\img_7.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\masage.png",
+      "PackagePath": "staticwebassets\\images\\masage.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\pepsi.png",
+      "PackagePath": "staticwebassets\\images\\pepsi.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\js\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\layoutadmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\layoutadmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Môn đã học xong\\LapTrinhWeb\\N02_Nhom08_QLGiaoTrinh\\N02_Nhom08_QLGiaoTrinh\\BTL_QLGiaoTrinh\\BTL-Web-Net.ASP-Core\\BTL\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BTL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BTL.props",
+      "PackagePath": "build\\BTL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BTL.props",
+      "PackagePath": "buildMultiTargeting\\BTL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BTL.props",
+      "PackagePath": "buildTransitive\\BTL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

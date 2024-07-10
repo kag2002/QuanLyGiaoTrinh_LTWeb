@@ -1,0 +1,112 @@
+﻿
+@{
+    ViewData["Title"] = "TraGiaoTrinh";
+    Layout = "~/Views/Shared/Giaotrinh.cshtml";
+}
+@model List<HoSoTra>
+<div style="width:100%">
+  
+    <h1>
+        Trả giáo trình <span>
+            <a asp-controller="Home" asp-action="ThemHoSoTra" >
+            <button type="button" class="btn btn-success" style="float:right">  <i class="fa-solid fa-plus"></i>Tạo hồ sơ trả</button>
+            </a>
+        </span>
+    </h1>
+
+</div>
+<table class="table ">
+    <thead>
+        <tr class=" table-warning">
+            <th>
+                <p>Mã hồ sơ trả</p>
+            </th>
+
+            <th>
+                <p>Mã hồ sơ mượn</p>
+            </th>
+
+            <th>
+                <p>Ngày trả</p>
+            </th>
+
+            <th>
+                <p>Thủ thư</p>
+            </th>
+
+            <th><p>Chức năng</p></th>
+        </tr>
+    </thead>
+    @{
+        int i = 1;
+    }
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            i = i + 1;
+            string cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaHstra)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaHsm)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.NgayTra)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaThuThu)
+                </td>
+              
+                <td>
+
+                    <a asp-controller="Home" asp-action="SuaHoSoTra" asp-route-ma="@item.MaHstra" style="text-decoration: none">
+                        <button type="button" class="btn btn-warning">
+                            Edit
+                        </button>
+                    </a>
+                    <a asp-controller="Home" asp-action="GiaoTrinhChuaTra" asp-route-ma="@item.MaHsm" asp-route-matra="@item.MaHstra" style="text-decoration: none">
+                        <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#exampleModalCenter">Details</button>
+                    </a>
+
+
+
+                    <a asp-action="XoaHoSoTra" asp-route-ma="@item.MaHstra" style="text-decoration: none">
+                        <button type="button" class="btn btn-danger">
+                            Delete
+                        </button>
+                    </a>
+
+                    @* <a asp-action="Edit" asp-route-id="@item.MaSp">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaSp">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaSp">Delete</a>*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" >
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#btnSave").click(function (e) {
+           
+            console.log("ggggggggg");
+            toastr.success("tuoilozz", 'vvvv', new { timeOut: 3000 });
+    
+        });
+    });
+
+</script>
+

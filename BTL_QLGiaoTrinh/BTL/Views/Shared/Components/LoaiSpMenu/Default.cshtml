@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ChuyenNganh>
+
+            @foreach(var loaiSp in Model)
+            {
+    var getUrl = "https://localhost:7299/api/giaotrinhapi/" + loaiSp.MaChuyenNganh;
+                 <li>               
+                 <a style="cursor:pointer" onclick="showProductsByCategory('@getUrl')">@loaiSp.TenChuyenNganh</a>
+                 </li>
+            }
+  
+<script>
+    function showProductsByCategory(getUrl){
+        var str='';
+        $.ajax({
+            type:'GET',
+            url:getUrl,
+            dataType:'json',
+            error: function(respone){
+                alert(respone);
+            },
+            success: function(data){
+                $.each(data,function(key,val){
+                    str += `<div class="row">
+                    <div  class="col-md-6 mx-auto text-center mb-5 section-heading">
+                        <h2 class="mb-5">Danh sách Giáo Trình</h2>
+                    </div>
+                </div>
+          <div  class="row">
+                    <div class="col-md-6 col-lg-4 mb-5">
+        <div class="hotel-room text-center">
+                <a href="#" class="d-block mb-0 thumbnail"><img src="../images/${val.anh}" alt="Image" class="img-fluid"></a>
+            <div class="hotel-room-body">
+                        <h3 class="heading mb-0"><a href="#">${val.tenGt}</a></h3>
+                    <strong class="price">${val.namXb}</strong>
+            </div>
+        </div>
+    </div>
+        </div>`
+            });
+          $('#displayproducts').html(str); 
+        }
+        });
+    }
+</script>

@@ -1,0 +1,47 @@
+﻿@model BTL.Models.TacGium
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "SuaSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>SuaSanPham</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SuaSanPham">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MaTacGia" />
+            <div class="form-group">
+                <label asp-for="TenTacGia" class="control-label"></label>
+                <input asp-for="TenTacGia" class="form-control" />
+                <span asp-validation-for="TenTacGia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaKhoa" class="control-label"></label>
+                <select asp-for="MaKhoa" class="form-control" asp-items="ViewBag.MaKhoa"></select>
+                <span asp-validation-for="MaKhoa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NamSinh" class="control-label"></label>
+                <input asp-for="NamSinh" class="form-control" />
+                <span asp-validation-for="NamSinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaTrinhDo" class="control-label"></label>
+                <select asp-for="MaTrinhDo" class="form-control" asp-items="ViewBag.MaTrinhDo"></select>
+                <span asp-validation-for="MaTrinhDo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

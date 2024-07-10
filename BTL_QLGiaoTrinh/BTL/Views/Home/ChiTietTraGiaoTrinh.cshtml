@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "ChiTietTraGiaoTrinh";
+    Layout = "~/Views/Shared/Giaotrinh.cshtml";
+}
+
+@model List<ChiTietHstra>
+<div style="width:100%">
+
+    <h1>
+        Chi tiết trả giáo trình<span>
+        </span>
+    </h1>
+
+</div>
+<table class="table ">
+    <thead>
+        <tr class=" table-warning">
+            <th>
+                <p>Mã hồ sơ trả</p>
+            </th>
+
+            <th>
+                <p>Mã giáo trình</p>
+            </th>
+
+            <th>
+                <p>Mã vi phạm</p>
+            </th>
+
+            <th>
+                <p>Mã phạt</p>
+            </th>
+
+            <th><p>Chức năng</p></th>
+        </tr>
+    </thead>
+    @{
+        int i = 1;
+    }
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            i = i + 1;
+            string cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaHstra)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaGt)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaViPham)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaPhat)
+                </td>
+
+                <td>
+
+                    <a asp-controller="Home" asp-action="SuaChiTietHoSoTra" asp-route-ma="@item.MaHstra" style="text-decoration: none">
+                        <button type="button" class="btn btn-warning">
+                            Edit
+                        </button>
+                    </a>
+
+
+                    <a asp-action="XoaChiTietHoSoTra" asp-route-ma="@item.MaHstra" asp-route-magt="@item.MaGt" style="text-decoration: none">
+                        <button type="button" class="btn btn-danger">
+                            Delete
+                        </button>
+                    </a>
+
+                    @* <a asp-action="Edit" asp-route-id="@item.MaSp">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaSp">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaSp">Delete</a>*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

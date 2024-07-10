@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewData["Title"] = "GTDetail";
+    Layout = "~/Views/Shared/Giaotrinh.cshtml";
+}
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<DmgiaoTrinh>
+<hr />
+<p>
+    @TempData["Message"]
+</p>
+<div class="row">
+                    <div  class="col-md-6 mx-auto text-center mb-5 section-heading">
+                        <h2 class="mb-5">Danh sách Giáo Trình mượn</h2>
+                    </div>
+                </div>
+<div>
+    <p><a class="btn btn-primary pill text-white px-4"  asp-controller="Home" asp-action="themgtmuon" asp-route-magt="@ViewBag.Mahsm">Thêm GT mượn</a></p>
+</div>
+
+<div class="row">
+@foreach (var item in Model)
+{
+        <div class="col-md-6 col-lg-4 mb-5">
+            <div class="hotel-room text-center">
+                <a href="#" class="d-block mb-0 thumbnail"><img src="@Url.Content("../images/"+item.Anh)" alt="Image" class="img-fluid"></a>
+                <div class="hotel-room-body">
+                    <h3 class="heading mb-0"><a href="#">@item.TenGt</a></h3>
+                    <strong class="price">@item.NamXb</strong>
+                </div>
+            <div>
+                <p>
+                        <a class="btn btn-primary pill text-white px-4" asp-controller="Home" asp-action="XoaGT"
+                   asp-route-mahsm="@ViewBag.Mahsm" asp-route-magiaotrinh="@item.MaGt">Xoa GT mượn</a>
+                </p>
+            </div>
+            </div>
+        </div>
+}
+</div>
+<div class="site-block-27">
+    <ul>
+        @Html.PagedListPager(Model,page=>Url.Action("GTDetail",new{magt=@ViewBag.Mahsm,page=page}))
+    </ul>
+</div>
+
+
+
+

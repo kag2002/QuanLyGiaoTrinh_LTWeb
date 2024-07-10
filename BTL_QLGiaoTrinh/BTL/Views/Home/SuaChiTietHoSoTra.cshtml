@@ -1,0 +1,35 @@
+﻿@model BTL.Models.ChiTietHstra
+
+@{
+    ViewData["Title"] = "SuaChiTietHoSoTra";
+    Layout = "~/Views/Shared/Giaotrinh.cshtml";
+}
+
+<div class="col-md-12">
+    <h1>Sửa vi phạm</h1>
+</div>
+
+    <div class="col-md-8">
+        <form asp-action="SuaChiTietHoSoTra">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MaHstra" />
+            <input type="hidden" asp-for="MaGt" />
+            <div class="form-group">
+                <label asp-for="MaViPham" class="control-label"></label>
+                <select asp-for="MaViPham" class="form-control" asp-items="ViewBag.MaViPham"></select>
+                <span asp-validation-for="MaViPham" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaPhat" class="control-label"></label>
+                <select asp-for="MaPhat" class="form-control" asp-items="ViewBag.MaPhat"></select>
+                <span asp-validation-for="MaPhat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="ChiTietTraGiaoTrinh">
+                <button type="button" class="btn btn-info">Back to List</button>
+            </a>
+            </div>
+        </form>
+    </div>
+

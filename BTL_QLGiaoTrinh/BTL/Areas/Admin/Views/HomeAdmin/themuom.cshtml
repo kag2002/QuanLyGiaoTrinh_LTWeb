@@ -1,0 +1,99 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model IEnumerable<BTL.Models.TheMuon>
+
+@{
+    ViewData["Title"] = "themuom";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<h2 class="page-title">
+    <span class="page-title-icon bg-gradient-primary text-white me-2">
+        <i class="mdi mdi-account-card-details"></i>
+    </span> Quản lý thẻ mượn
+</h2>
+<p style="float:right">
+    <a asp-controller="HomeAdmin" asp-action="themthemuon" class="create">
+        <button type="button" class="btn btn-outline-danger btn-icon-text" asp-controller="HomeAdmin" asp-action="ThemSanPham">
+            <i class="mdi mdi-upload btn-icon-prepend upload"></i>Thêm mới thẻ mượn
+        </button>
+    </a>
+</p>
+<table class="table">
+    <thead>
+        <tr class=" table-danger">
+            <th>
+                @Html.DisplayNameFor(model => model.HoTen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GioiTinh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaKhoa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KhoaThe)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Slmuon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaLopNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    @{
+        int i = 1;
+    }
+    <tbody>
+@foreach (var item in Model) {
+                i = i + 1;
+                string cls = "table-success";
+                if (i % 2 == 0)
+                {
+                    cls = "table-primary";
+                }
+
+                <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GioiTinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaKhoa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KhoaThe)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Slmuon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaLop)
+            </td>
+            <td>
+                  <a asp-controller="HomeAdmin" asp-action="Suathemuon" asp-route-themuon="@item.MaThe" style="text-decoration: none">
+                        <button type="button" class="btn-sm btn-gradient-dark ">
+                            Edit
+                        </button>
+                    </a>
+
+                    <button type="button" class="btn-sm btn-gradient-info" asp-action="Details" asp-route-id="">Details</button>
+
+                    <a asp-action="Xoathemuon" asp-route-masp="@item.MaThe" style="text-decoration: none">
+                        <button type="button" class="btn-sm btn-gradient-danger" asp-action="Delete" asp-route-id="@item.MaThe">
+                            Delete
+                        </button>
+                    </a>
+                    @*<a asp-action="Edit" asp-route-themuon="@item.MaThe">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaThe">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaThe">Delete</a>*@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

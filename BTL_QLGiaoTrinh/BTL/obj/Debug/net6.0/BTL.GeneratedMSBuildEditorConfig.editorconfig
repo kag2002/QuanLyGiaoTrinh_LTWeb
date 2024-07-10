@@ -1,0 +1,191 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BTL
+build_property.RootNamespace = BTL
+build_property.ProjectDir = D:\Môn đã học xong\LapTrinhWeb\N02_Nhom08_QLGiaoTrinh\N02_Nhom08_QLGiaoTrinh\BTL_QLGiaoTrinh\BTL-Web-Net.ASP-Core\BTL\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Môn đã học xong\LapTrinhWeb\N02_Nhom08_QLGiaoTrinh\N02_Nhom08_QLGiaoTrinh\BTL_QLGiaoTrinh\BTL-Web-Net.ASP-Core\BTL
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/DanhSachSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhTYWNoU2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/DanhSachThuThu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhTYWNoVGh1VGh1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/sanphamtheoloai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXHNhbnBoYW10aGVvbG9haS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/sualsanpham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXHN1YWxzYW5waGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/Suathemuon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YXRoZW11b24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/SuaThuTHu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVRodVRIdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/ThemSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtTW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/themthemuon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXHRoZW10aGVtdW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/ThemThuThu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1UaHVUaHUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/HomeAdmin/themuom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXHRoZW11b20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/ChiTietTraGiaoTrinh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0VHJhR2lhb1RyaW5oLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/ErrorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/GiaoTrinhChuaTra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaWFvVHJpbmhDaHVhVHJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/GTDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHVERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/Hosomuon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb3NvbXVvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/NutTraGiaoTrinh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOdXRUcmFHaWFvVHJpbmguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/SuaChiTietHoSoTra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWFDaGlUaWV0SG9Tb1RyYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/SuaHoSoTra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWFIb1NvVHJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/suahs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdWFocy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/ThemChiTietHoSoTra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaGVtQ2hpVGlldEhvU29UcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/themgtmuon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0aGVtZ3RtdW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/themhosomuon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0aGVtaG9zb211b24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/ThemHoSoTra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaGVtSG9Tb1RyYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Home/TraGiaoTrinh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFHaWFvVHJpbmguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/Components/LoaiSpMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTG9haVNwTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/Giaotrinh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEdpYW90cmluaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/LayoutError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/_LayoutLibraly.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMaWJyYWx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/_LayoutShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Môn đã học xong/LapTrinhWeb/N02_Nhom08_QLGiaoTrinh/N02_Nhom08_QLGiaoTrinh/BTL_QLGiaoTrinh/BTL-Web-Net.ASP-Core/BTL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r300d95vn0

@@ -1,0 +1,135 @@
+﻿
+@{
+    ViewData["Title"] = "GiaoTrinhChuaTra";
+    Layout = "~/Views/Shared/Giaotrinh.cshtml";
+}
+@model List<DmgiaoTrinh>
+
+<div class="col-md-12">
+    <h1>Hồ sơ trả @ViewBag.mahsm</h1>
+</div>
+
+    @*<div class="col-md-4">
+        <form asp-action="ThemChiTietHoSoTra">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+             <input asp-for="MaHstra" class="form-control" />
+          
+            <div class="form-group">
+                <label asp-for="MaGt" class="control-label"></label>
+            <select asp-for="MaGt" class="form-control" asp-items="ViewBag.MaGt"></select>
+         
+            </div>*@
+
+<table class="table">
+            <thead>
+                <tr>
+                    <th> Mã giáo trình </th>
+                    <th> Giáo trình </th>
+                    <th> Mã tác giả </th>
+                    <th> Năm xuất bản </th>
+                    <th> Chức năng </th>
+                </tr>
+            </thead>
+    @{
+        int i = 1;
+        var geturl = "https://localhost:7299/api/productapi/" +@ViewBag.mahsm;
+    }
+
+    <tbody>
+                @foreach (var item in Model)
+                {
+                    i = i + 1;
+                    string cls = "table-success";
+                    if (i % 2 == 0)
+                    {
+                        cls = "table-primary";
+                    }
+            <tr class="@cls" >
+                        <td>
+                        
+                            @Html.DisplayFor(modelItem => item.MaGt)
+                        </td>
+
+                        <td>
+                            <img src="../images/@item.Anh" class="me-2" alt="image" style="width:50px;hight:50px">
+                            @Html.DisplayFor(modelItem => item.TenGt)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MaTacGia)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NamXb)
+                        </td>
+
+                        <td>
+                    <a asp-controller="Home" asp-action="NutTraGiaoTrinh" asp-route-mahstra="@ViewBag.matra" asp-route-magt="@item.MaGt" style="text-decoration: none">
+                        <button type="button" class="btn btn-warning">
+                                   Trả giáo trình
+                                </button>
+                            </a>
+                           
+                            @* <a asp-action="Edit" asp-route-id="@item.MaSp">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.MaSp">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.MaSp">Delete</a>*@
+                        </td>
+                    </tr>
+                }             
+            </tbody>
+        </table>
+<div class="col-md-12">
+    <h1> Sách đã trả</h1>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Mã giáo trình </th>
+            <th> Giáo trình </th>
+            <th> Mã tác giả </th>
+            <th> Năm xuất bản </th>
+        </tr>
+    </thead>
+    <div style="width:100%">
+        <a style="cursor:pointer; float:right" onclick="showProductByCategory('@geturl')">
+            <button type="button" class="btn btn-success">
+                Show giáo trình đã trả
+            </button>
+        </a>
+    </div>
+  
+    <tbody id="showgiaotrinh">                          
+    </tbody>
+</table>
+
+
+
+
+<script>
+     function showProductByCategory(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += `<tr><td>${val.maGt}</td>
+                        <td>
+                                            <img src="../images/${val.anh}" class="me-2" alt="image" style="width:50px;hight:50px">${val.tenGt}
+                            </td>      
+                            <td>
+                                ${val.maTacGia}
+                            </td>
+                            <td>
+                                      ${val.namXb}
+                                </td></tr>`;
+                });
+                $('#showgiaotrinh').html(str);
+            },
+            Error: function (xhr) {
+                alert(xhr.responseText);
+            }
+        });
+    }
+</script>

@@ -1,0 +1,495 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Quản Lý Giáo Trình</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Work+Sans:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="../fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/magnific-popup.css">
+    <link rel="stylesheet" href="../css/jquery-ui.css">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="../css/animate.css">
+
+    
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
+
+
+
+    <link rel="stylesheet" href="../fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="../css/aos.css">
+
+    <link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+    <div class="site-wrap">
+
+        <div class="site-mobile-menu">
+            <div class="site-mobile-menu-header">
+                <div class="site-mobile-menu-close mt-3">
+                    <span class="icon-close2 js-menu-toggle"></span>
+                </div>
+            </div>
+            <div class="site-mobile-menu-body"></div>
+        </div>
+        <!-- .site-mobile-menu -->
+
+        <!-- menu -->
+        <div class="site-navbar-wrap js-site-navbar bg-white">
+
+            <div class="container">
+                <div class="site-navbar bg-light">
+                    <div class="py-1">
+                        <div class="row align-items-center">
+                            <div class="col-2">
+                                <h2 class="mb-0 site-logo"><a href="index.html">Giáo Trình</a></h2>
+                            </div>
+                            <div class="col-10">
+                                <nav class="site-navigation text-right" role="navigation">
+                                    <div class="container">
+
+                                        <div class="d-inline-block d-lg-none  ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu h3"></span></a></div>
+                                        <ul class="site-menu js-clone-nav d-none d-lg-block">
+                                            <li class="active">
+                                                <a asp-controller="Home" asp-action="Index">Trang chủ</a>
+                                            </li>
+                                            <li class="has-children">
+                                                <a >Chuyên Ngành</a>
+                                                <ul class="dropdown arrow-top" style="height: 600px; overflow: auto">  
+                                                    @await Component.InvokeAsync("LoaiSpMenu")
+                                                </ul>
+                                            </li>
+                                            <li><a asp-controller="Home" asp-action="Hosomuon">Hồ sơ mượn</a></li>
+                                            <li class="has-children">
+                                                <a href="">Trả giáo trình</a>
+                                                <ul class="dropdown arrow-top">
+                                                    <li><a asp-controller="Home" asp-action="TraGiaoTrinh">Quản lý hồ sơ trả</a></li>
+                                                    <li><a asp-controller="Home" asp-action="ChiTietTraGiaoTrinh">Quản lý hồ sơ phạt</a></li>
+
+                                                </ul>
+                                            </li>
+                                            <li><a href="contact.html">Liên hệ</a></li>
+                                            <li><a <a asp-controller="Access" asp-action="Logout">Đăng xuất</a></li>
+                                        </ul>
+                                    </div>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- slide trang chủ -->
+        <div class="slide-one-item home-slider owl-carousel">
+
+            <div class="site-blocks-cover overlay" style="background-image: url(../images/ThuVien1.jpeg);" data-aos="fade" data-stellar-background-ratio="0.5">
+                <div class="container">
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-md-7 text-center" data-aos="fade">
+
+                            <h1 class="mb-2">Chào mừng đến với trung tâm giáo trình</h1>
+                            <h2 class="caption">Tri thức là sức mạnh</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="site-blocks-cover overlay" style="background-image: url(../images/ThuVien2.jpeg);" data-aos="fade" data-stellar-background-ratio="0.5">
+                <div class="container">
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-md-7 text-center" data-aos="fade">
+                            <h1 class="mb-2">Trải nghiệm độc đáo</h1>
+                            <h2 class="caption">Tận hưởng không gian độc đáo</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="site-blocks-cover overlay" style="background-image: url(../images/ThuVien3.jpeg);" data-aos="fade" data-stellar-background-ratio="0.5">
+                <div class="container">
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-md-7 text-center" data-aos="fade">
+                            <h1 class="mb-2">Tài liệu phong phú đa dạng</h1>
+                            <h2 class="caption">Dịch vụ tậm tâm</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="site-section bg-light">
+            <div id="displayproducts" class="container">
+                    @RenderBody()
+            </div>
+        </div>
+
+
+        <!-- Thông tin -->
+        <div class="site-section">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6 mb-5 mb-md-0">
+
+                        <div class="img-border">
+                            <a href="https://www.youtube.com/watch?v=N2tFU-J40qA" class="popup-vimeo image-play">
+                                <span class="icon-wrap">
+                                    <span class="icon icon-play"></span>
+                                </span>
+                                <img src="../images/NenThuVien.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+
+                        <img src="../images/ThuVien6.jpg" alt="Image" class="img-fluid image-absolute">
+
+                    </div>
+                    <div class="col-md-5 ml-auto">
+
+
+                        <div class="section-heading text-left">
+                            <h2 class="mb-5">Thông tin</h2>
+                        </div>
+                        <p class="mb-4">Bạn đang tìm kiếm một nơi để mở rộng kiến thức, khám phá những thế giới mới và khám phá những khả năng vô tận? Không tìm đâu xa hãy tới với chúng tôi! Không chỉ là một bộ sưu tập sách mà còn là cửa ngõ dẫn đến một vũ trụ tri thức, trí tưởng tượng và nguồn cảm hứng vô tận.</p>
+                        <p><a href="https://www.youtube.com/watch?v=N2tFU-J40qA" class="popup-vimeo text-uppercase">Xem Video <span class="icon-arrow-right small"></span></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <!-- khuyến mãi -->
+        <div class="py-5 upcoming-events" style="background-image: url('../images/ThuVien4.jpg'); background-attachment: fixed;">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <h2 class="text-white">Khuyến mại 50% </h2>
+                        <a href="#" class="text-white btn btn-outline-warning rounded-0 text-uppercase">Tới ngay luôn</a>
+                    </div>
+                    <div class="col-md-6">
+                        <span class="caption">Bắt đầu từ</span>
+                        <div id="date-countdown"></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- danh sách ảnh phòng trống -->
+        <div class="site-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 mx-auto text-center mb-5 section-heading">
+                        <h2 class="mb-5">Giáo trình sẵn có</h2>
+                    </div>
+                </div>
+                <div class="row no-gutters">
+                    <div class="col-md-6 col-lg-3">
+                        <a href="../images/1.jpg" class="image-popup img-opacity"><img src="../images/1.jpg" alt="Image" class="img-fluid"></a>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <a href="../images/2.jpg" class="image-popup img-opacity"><img src="../images/2.jpg" alt="Image" class="img-fluid"></a>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <a href="../images/3.jpg" class="image-popup img-opacity"><img src="../images/3.jpg" alt="Image" class="img-fluid"></a>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <a href="../images/4.jpg" class="image-popup img-opacity"><img src="../images/4.jpg" alt="Image" class="img-fluid"></a>
+                    </div>
+
+                    <div class="col-md-6 col-lg-3">
+                        <a href="../images/5.jpg" class="image-popup img-opacity"><img src="../images/5.jpg" alt="Image" class="img-fluid"></a>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <a href="../images/6.jpg" class="image-popup img-opacity"><img src="../images/6.jpg" alt="Image" class="img-fluid"></a>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <a href="../images/7.jpg" class="image-popup img-opacity"><img src="../images/7.jpg" alt="Image" class="img-fluid"></a>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <a href="../images/8.jpg" class="image-popup img-opacity"><img src="../images/8.jpg" alt="Image" class="img-fluid"></a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Thông tin phòng -->
+        <div class="site-section block-15">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 mx-auto text-center mb-5 section-heading">
+                        <h2>Thông tin phòng đọc</h2>
+                    </div>
+                </div>
+
+
+                <div class="nonloop-block-15 owl-carousel">
+
+
+                    <div class="media-with-text p-md-5">
+                        <div class="img-border-sm mb-4">
+                            <a href="#" class="popup-vimeo image-play">
+                                <img src="../images/ThuVien1.jpeg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                        <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
+                        <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+                    </div>
+
+                    <div class="media-with-text p-md-4">
+                        <div class="img-border-sm mb-4">
+                            <a href="#" class="popup-vimeo image-play">
+                                <img src="../images/ThuVien2.jpeg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                        <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
+                        <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+                    </div>
+
+                    <div class="media-with-text p-md-4">
+                        <div class="img-border-sm mb-4">
+                            <a href="#" class="popup-vimeo image-play">
+                                <img src="../images/ThuVien7.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                        <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
+                        <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+                    </div>
+
+                    <div class="media-with-text p-md-4">
+                        <div class="img-border-sm mb-4">
+                            <a href="#" class="popup-vimeo image-play">
+                                <img src="../images/ThuVien1.jpeg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                        <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
+                        <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+                    </div>
+
+                    <div class="media-with-text p-md-4">
+                        <div class="img-border-sm mb-4">
+                            <a href="#" class="popup-vimeo image-play">
+                                <img src="../images/ThuVien2.jpeg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                        <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
+                        <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+                    </div>
+
+                    <div class="media-with-text p-md-4">
+                        <div class="img-border-sm mb-4">
+                            <a href="#" class="popup-vimeo image-play">
+                                <img src="../images/ThuVien7.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                        <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
+                        <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+                    </div>
+
+                    <div class="media-with-text p-md-4">
+                        <div class="img-border-sm mb-4">
+                            <a href="#" class="popup-vimeo image-play">
+                                <img src="../images/ThuVien1.jpeg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                        <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
+                        <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+                    </div>
+
+                    <div class="media-with-text p-md-4">
+                        <div class="img-border-sm mb-4">
+                            <a href="#" class="popup-vimeo image-play">
+                                <img src="../images/ThuVien2.jpeg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                        <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
+                        <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+                    </div>
+
+                    <div class="media-with-text p-md-4">
+                        <div class="img-border-sm mb-4">
+                            <a href="#" class="popup-vimeo image-play">
+                                <img src="../images/ThuVien7.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                        <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
+                        <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
+                    </div>
+
+
+
+                </div>
+
+            </div>
+        </div>
+
+        <!-- phản hồi khách hàng -->
+        <div class="site-section block-14 bg-light">
+
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-6 mx-auto text-center mb-5 section-heading">
+                        <!-- <h2>Phản hồi khách hàng</h2> -->
+                        <h2>Phản hồi</h2>
+
+                    </div>
+                </div>
+
+                <div class="nonloop-block-14 owl-carousel">
+
+
+
+                    <div class="p-4">
+                        <div class="d-flex block-testimony">
+                            <div class="person mr-3" style="width:50%;height:100%;">
+                                <a href="roomDetails.html" class="d-block mb-0 thumbnail"><img src="../images/ThuVien1.jpeg" alt="Image" class="img-fluid"></a>
+                            </div>
+                            <div>
+                                <h3 class="heading mb-0"><a href="roomDetails.html">Standard Room</a></h3>
+                                <strong class="price">$350.00 / per night</strong>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="p-4">
+                        <div class="d-flex block-testimony">
+                            <div class="person mr-3">
+                                <img src="../images/person_2.jpg" alt="Image" class="img-fluid rounded">
+                            </div>
+                            <div>
+                                <h2 class="h5">Jane Mars</h2>
+                                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="d-flex block-testimony">
+                            <div class="person mr-3">
+                                <img src="../images/person_3.jpg" alt="Image" class="img-fluid rounded">
+                            </div>
+                            <div>
+                                <h2 class="h5">Shane Holmes</h2>
+                                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-4">
+                        <div class="d-flex block-testimony">
+                            <div class="person mr-3">
+                                <img src="../images/person_4.jpg" alt="Image" class="img-fluid rounded">
+                            </div>
+                            <div>
+                                <h2 class="h5">Mark Johnson</h2>
+                                <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias accusantium qui optio, possimus necessitatibus voluptate aliquam velit nostrum tempora ipsam!&rdquo;</blockquote>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- local -->
+        <div class="py-5 quick-contact-info">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 text-center">
+                        <div>
+                            <span class="icon-room text-white h2 d-block"></span>
+                            <h2>Địa điểm</h2>
+                            <p class="mb-0">New York - 2398 <br> 10 Hadson Carl Street</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <div>
+                            <span class="icon-clock-o text-white h2 d-block"></span>
+                            <h2>Thời gian phục vụ</h2>
+                            <p class="mb-0">Wednesdays at 6:30PM - 7:30PM <br> Fridays at Sunset - 7:30PM <br> Saturdays at 8:00AM - Sunset</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <div>
+                            <span class="icon-comments text-white h2 d-block"></span>
+                            <h2>Liên hệ</h2>
+                            <p class="mb-0">Email: info@yoursite.com <br> Phone: (123) 3240-345-9348 </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    
+        @await Html.PartialAsync("_Footer")
+    </div>
+
+    <script src="../wwwroot/js/jquery-3.3.1.min.js"></script>
+    <script src="../wwwroot/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="../wwwroot/js/jquery-ui.js"></script>
+    <script src="../wwwroot/js/popper.min.js"></script>
+    <script src="../wwwroot/js/bootstrap.min.js"></script>
+    <script src="../wwwroot/js/owl.carousel.min.js"></script>
+    <script src="../wwwroot/js/jquery.stellar.min.js"></script>
+    <script src="../wwwroot/js/jquery.countdown.min.js"></script>
+    <script src="../wwwroot/js/jquery.magnific-popup.min.js"></script>
+    <script src="../wwwroot/js/bootstrap-datepicker.min.js"></script>
+    <script src="../wwwroot/js/aos.js"></script>
+
+
+    <script src="../wwwroot/js/mediaelement-and-player.min.js"></script>
+
+    <script src="../wwwroot/js/main.js"></script>
+    @await Component.InvokeAsync("NToastNotify")
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var mediaElements = document.querySelectorAll('video, audio'),
+                total = mediaElements.length;
+
+            for (var i = 0; i < total; i++) {
+                new MediaElementPlayer(mediaElements[i], {
+                    pluginPath: 'https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/',
+                    shimScriptAccess: 'always',
+                    success: function() {
+                        var target = document.body.querySelectorAll('.player'),
+                            targetTotal = target.length;
+                        for (var j = 0; j < targetTotal; j++) {
+                            target[j].style.visibility = 'visible';
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+
+</body>
+
+</html>

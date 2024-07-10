@@ -1,0 +1,130 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model IEnumerable<BTL.Models.DmgiaoTrinh>
+
+@{
+    ViewData["Title"] = "sanphamtheoloai";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<h2 class="page-title" >
+    <span class="page-title-icon bg-gradient-primary text-white me-2">
+        <i class="mdi mdi-library-books"></i>
+    </span> Quản lý giáo trình
+</h2>
+
+
+<p style="float:right">
+    <a asp-controller="HomeAdmin" asp-action="ThemSanPham" class="create">
+        <button type="button" class="btn btn-outline-danger btn-icon-text">
+            <i class="mdi mdi-upload btn-icon-prepend upload"></i>Thêm mới giáo trình
+        </button>
+    </a>
+</p>
+
+<div style="width: 100%; overflow-x: auto;">
+
+
+<table class="table col-lg-12" >
+    <thead>
+        <tr class=" table-danger">
+            <th>
+                @Html.DisplayNameFor(model => model.MaGt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenGt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaTacGia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NamXb)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LanTb)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaChuyenNganh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoTrang)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TomTatNd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoLuongGt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Anh)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    @{
+        int i = 1;
+    }
+        <tbody >
+@foreach (var item in Model) {
+            i = i + 1;
+            string cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.MaGt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenGt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaTacGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NamXb)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LanTb)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaChuyenNganh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoTrang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TomTatNd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuongGt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Anh)
+            </td>
+            <td>
+                    <a asp-controller="HomeAdmin" asp-action="sualsanpham" asp-route-themuon="@item.MaGt" style="text-decoration: none">
+                        <button type="button" class="btn-sm btn-gradient-dark ">
+                            Edit
+                        </button>
+                    </a>
+
+                    <button type="button" class="btn-sm btn-gradient-info" asp-action="Details" asp-route-id="">Details</button>
+
+                    <a asp-action="XoaGiaoTrinh" asp-route-masp="@item.MaGt" style="text-decoration: none">
+                        <button type="button" class="btn-sm btn-gradient-danger" asp-action="Delete" asp-route-id="@item.MaGt">
+                            Delete
+                        </button>
+                    </a>
+
+             @*   @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>

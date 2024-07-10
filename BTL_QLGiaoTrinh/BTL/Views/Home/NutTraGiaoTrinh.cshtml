@@ -1,0 +1,24 @@
+﻿@model BTL.Models.ChiTietHstra
+
+@{
+    ViewData["Title"] = "NutTraGiaoTrinh";
+    Layout = "~/Views/Shared/Giaotrinh.cshtml";
+}
+<div style="width:100%">
+<h1>Xác nhận trả giáo trình</h1>
+</div>
+<div class="row">
+    <div class="col-md-10">
+        <form asp-action="NutTraGiaoTrinh">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <label class="control-label"> Mã hồ sơ trả</label></br>
+            <input asp-for="MaHstra" /></br>
+            <label class="control-label"> Mã giáo trình</label></br>
+            <input asp-for="MaGt" /></br>
+            <div class="form-group">
+                <input type="submit" value="Xác nhận" class="btn btn-primary" />
+                <a asp-action="Index">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
